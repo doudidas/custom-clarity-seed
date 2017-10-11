@@ -6,7 +6,6 @@
 import { async, TestBed, ComponentFixture } from "@angular/core/testing";
 import { ClarityModule } from 'clarity-angular';
 import { HomeComponent } from './home.component';
-import { customVar } from '../../environments/customVariables';
 
 describe('HomeComponent', () => {
 
